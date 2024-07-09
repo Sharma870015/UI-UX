@@ -1,0 +1,36 @@
+.MuiGrid-root.MuiGrid-container.first-img.css-11lq3yg-MuiGrid-root {
+    margin-top: 125px;
+    padding-left: 25px;
+}
+img.img1 {
+    height: 380px;
+    border: 2px solid lightgray;
+    border-radius: 17px;
+}
+img.img2 {
+    height: 380px;
+    width: 380px;
+    border: 2px solid lightgray;
+    border-radius: 17px;
+}
+.for-points{
+    font-family: 'Roboto', sans-serif;
+}
+.for-deep-dive{
+    color: rgb(107, 107, 107);
+    font-family: 'Roboto', sans-serif;
+}
+img.third-img {
+    height: 380px;
+    width: 380px;
+    border: 2px solid lightgray;
+    border-radius: 17px;
+    margin-top: 60px;
+}
+img.fourth-img{
+    height: 380px;
+    width: 380px;
+    border: 2px solid lightgray;
+    border-radius: 17px;
+    margin-top: 60px;
+}
